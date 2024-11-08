@@ -1,9 +1,5 @@
-- First-prize Academic Scholarship, 2023.
+﻿- 潍柴动力奖学金， 2024.
 
-- Freshman Academic Scholarship, 2022.
+- 学术奖学金二等奖， 2023.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship, 2021.
-
-- First-prize Academic Scholarship, 2019.
+- 新生奖学金二等奖， 2022.
